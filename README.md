@@ -3,10 +3,10 @@ URL del repositorio: https://github.com/klausnielsen1/grupo_4_birroteca.git
 
 
 Servicios y/o productos:
-Estamos enfocados en la venta de Cerveza Artesanal enlatada a traves de un e-commerce. Tambien la promocion de merch, y servicios de growlers. 
+Estamos enfocados en la venta de Cerveza Artesanal enlatada a través de un e-commerce. También la promoción de merch y servicios de growler. 
 
-Publico que apunta el sitio:
-Dado a la moda que rige hoy en dia en cuanto a las cervecerias, hamburgueserias, etc, queremos crear una pagina web enfocada a gente joven (18-35 años). Nos gustaria de alguna manera poder tambien resaltar en cuanto a la originalidad del proyecto, por ende tratar de generar un dialogo entre el cliente y la pagina web, el cual te lleve a personalizar el estilo de cerveza que "necesitas"  consumir, y asi asentuar clientes. 
+Público que apunta el sitio:
+Dado a la moda que rige hoy en día en cuanto a las cervecerías, hamburgueserías, etc, queremos crear una página web enfocada a gente joven (18-35 años). Nos gustaría de alguna manera poder también resaltar en cuanto a la originalidad del proyecto, por ende tratar de generar un diálogo entre el cliente y la página web, el cual te lleve a personalizar el estilo de cerveza que "necesitás"  consumir, y así asentuar clientes. 
 
 DESCRIPCION DEL EQUIPO:
 Klaus: enfocarme en el back-end y en la planificacion del html.
